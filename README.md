@@ -1,4 +1,4 @@
-# Speedy Gonzales: Los Gatos Bandidos practice hack
+# Speedy Gonzales: Los Gatos Bandidos Practice Hack
 A practice romhack for the Speedy Gonzales: Los Gatos Bandidos speedrun.
 It has features such as selectable categories, level select menu, checkpoint reloading and more. See below for full feature list.
 
