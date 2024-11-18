@@ -29,6 +29,7 @@ It has features such as selectable categories, level select menu, checkpoint rel
 ## Known Issues
 
 - When warping to stage 7-2, the player death sound effect plays.
+- Stage 7-2 plays the stage 3 music instead... for some magical reason.
 - You may run into one or two graphical glitches here and there, I did my best to prevent this but this game is pretty unstable.
 
 ## Special Thanks
